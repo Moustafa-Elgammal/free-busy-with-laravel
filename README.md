@@ -2,7 +2,7 @@
 
 ### Problem description:
 
-The mega corporation Buffel & Båg AB has a custom built system for handling meetings which has been around
+The mega corporation has a custom built system for handling meetings which has been around
 since the beginning of time and which is now deemed too hard to use. Since management doesn’t really know
 how important the system is they have invested far too little resources in the upgrade project and have
 decided to hire a single poor contractor (guess who) to solve the most important problems in almost no time.
